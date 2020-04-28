@@ -7,7 +7,7 @@ Some kind of [Retrofit Converters](https://github.com/square/retrofit/tree/maste
 
 ## How to use
 
-[Via Jitpack](https://jitpack.io/#k24/retrofit-converter-dsl-json/1.0.0), write dependency as `compile 'com.github.k24:retrofit-converter-dsl-json:1.0.0'`.
+[Via Jitpack](https://jitpack.io/#k24/retrofit-converter-dsl-json/1.0.0), write dependency as `implementation 'com.github.k24:retrofit-converter-dsl-json:1.0.0'`.
 
 ## License
 
